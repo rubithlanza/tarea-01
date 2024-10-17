@@ -1,1 +1,1 @@
-$ Primer tarea de la Clase de algoritmos ->Prueba de error y conteo
+$ Primer tarea de la Clase de algoritmos
