@@ -9,6 +9,5 @@ const multiplicacion = numero1 * numero2;
 const division = numero1 / numero2;
 
 alert(`${numero1} * ${numero2} =  ${multiplicacion}`);
-console.log(`${numero1} + ${numero2} =  ${multiplicacion}`) ;
 alert(`${numero1} / ${numero2} =  ${division}`);
-console.log(`${numero1} / ${numero2} =  ${division}`) ;
+console.log(`La Multiplicacion de ${numero1} + ${numero2} =  ${multiplicacion} y la Division de ${numero1} / ${numero2} =  ${division}`) ;
